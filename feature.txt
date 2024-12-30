@@ -1,2 +1,4 @@
 complete task 1
 complete task 2
+fix feature bug 1
+fix feature bug 2
